@@ -1,22 +1,22 @@
 # Green Hydro Jetting Pros
 
-Preview only. Local hydro jetting information.
+Drain and sewer cleaning information for Green, Ohio.
 
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/aultman/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/boettler-southgate-parks/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/contact/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/east-liberty/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/faq/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/greensburg/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/hydro-jetting/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/mineral-and-scale-deposits/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/preventative-maintenance/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/privacy/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/process/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/recurring-clogs-and-slow-drains/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/service-areas/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/services/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/severe-grease-and-sludge/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/terms/
-- https://aintgottaclue.github.io/green-hydro-jetting-pros/tree-root-intrusions/
+- [Aultman](https://greenhydrojetting.prosapp.site/aultman/)
+- [Boettler Southgate Parks](https://greenhydrojetting.prosapp.site/boettler-southgate-parks/)
+- [Contact](https://greenhydrojetting.prosapp.site/contact/)
+- [East Liberty](https://greenhydrojetting.prosapp.site/east-liberty/)
+- [Faq](https://greenhydrojetting.prosapp.site/faq/)
+- [Greensburg](https://greenhydrojetting.prosapp.site/greensburg/)
+- [How Hydro Jetting Works](https://greenhydrojetting.prosapp.site/how-hydro-jetting-works/)
+- [Hydro Jetting](https://greenhydrojetting.prosapp.site/hydro-jetting/)
+- [Hydro Jetting Vs Snaking](https://greenhydrojetting.prosapp.site/hydro-jetting-vs-snaking/)
+- [Index](https://greenhydrojetting.prosapp.site/)
+- [Mineral And Scale Deposits](https://greenhydrojetting.prosapp.site/mineral-and-scale-deposits/)
+- [Preventative Maintenance](https://greenhydrojetting.prosapp.site/preventative-maintenance/)
+- [Process](https://greenhydrojetting.prosapp.site/process/)
+- [Recurring Clogs And Slow Drains](https://greenhydrojetting.prosapp.site/recurring-clogs-and-slow-drains/)
+- [Service Areas](https://greenhydrojetting.prosapp.site/service-areas/)
+- [Services](https://greenhydrojetting.prosapp.site/services/)
+- [Severe Grease And Sludge](https://greenhydrojetting.prosapp.site/severe-grease-and-sludge/)
+- [Tree Root Intrusions](https://greenhydrojetting.prosapp.site/tree-root-intrusions/)

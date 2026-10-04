@@ -17,5 +17,5 @@ export const siteConfig = {
   "phoneHref": "+18777610283",
   "ga4MeasurementId": "G-TYRP1W8P6D",
   "airchattyTrackingId": "tk_61d238e145314251999b74fdd5c953cf",
-  "origin": ""
+  "origin": "https://greenhydrojetting.prosapp.site"
 } as const;
