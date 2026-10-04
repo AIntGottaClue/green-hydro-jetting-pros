@@ -71,3 +71,9 @@ header{top:0}
 /* Empty template toast host must not enlarge the mobile viewport. */
 ol.fixed:empty{display:none!important}
 </style>
+<style is:global>
+/* Keep footer pills inside the viewport so the fixed call button stays in view. */
+.sat-pill{max-width:100%;white-space:normal;overflow-wrap:anywhere}
+footer .sat-pill{display:inline-block;margin-bottom:8px}
+html,body{overflow-x:clip}
+</style>
