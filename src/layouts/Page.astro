@@ -58,3 +58,16 @@ header{top:0}
 @media(max-width:1023px){.sat-topbar p{display:none}.sat-topbar .flex{justify-content:center}}
 </style>
 <style is:global>.sat-grid{display:grid;gap:1px;background:#26323b;border:1px solid #26323b}.sat-grid-3{grid-template-columns:repeat(3,minmax(0,1fr))}.sat-grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}@media(max-width:767px){.sat-grid-3,.sat-grid-2{grid-template-columns:1fr}}.sat-desktop-nav summary{list-style:none}.sat-desktop-nav summary::-webkit-details-marker{display:none}.sat-desktop-nav summary::after{content:"";display:inline-block;margin-left:6px;width:6px;height:6px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg) translateY(-2px)}.sat-mobile-panel summary{list-style:none}.sat-mobile-panel summary::-webkit-details-marker{display:none}</style>
+
+<style is:global>
+/* Success replaces the form only after a confirmed tracker response. */
+[data-lead-form][hidden],.lead-success[hidden]{display:none!important}
+.lead-success{outline:none;text-align:center}
+.lead-success svg{display:block;margin:0 auto 20px;color:#16a34a}
+.lead-success h2{font-size:clamp(24px,4vw,32px);font-weight:700;line-height:1.2;margin:0 0 20px}
+.lead-success p{line-height:1.65;margin:0 auto 24px;max-width:34em}
+.lead-success .lead-success__again{background:none;border:0;border-radius:0;padding:0;margin-top:8px;font:inherit;font-weight:700;color:inherit;text-decoration:underline;text-underline-offset:4px;cursor:pointer}
+
+/* Empty template toast host must not enlarge the mobile viewport. */
+ol.fixed:empty{display:none!important}
+</style>
